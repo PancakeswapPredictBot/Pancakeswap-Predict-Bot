@@ -1,0 +1,4 @@
+requests
+threading
+ctypes
+queue
