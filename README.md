@@ -3,7 +3,7 @@
 ![Banner Image](https://img001.prntscr.com/file/img001/bbkBUgGORFyzifwW13BVMw.png)
 
 ## 🚀 About
-PancakeSwap Prediction Bot is an advanced, open-source trading bot that offers automated trading and AI-powered analysis on the PancakeSwap platform. It's designed to help users maximize their trading efficiency by leveraging cutting-edge technologies.
+PancakeSwap Prediction Bot is an advanced, open-source trading bot that offers automated trading and AI-powered analysis on the PancakeSwap platform. It plays the pancakeswap predict game for you in a fully automatic way. It is the most advanced bot on the market.
 
 ## 🧠 AI-Powered Analysis
 This bot utilizes artificial intelligence and machine learning algorithms to analyze market trends, providing users with informed trading decisions. Its predictive capabilities help in identifying potentially profitable trading opportunities.
