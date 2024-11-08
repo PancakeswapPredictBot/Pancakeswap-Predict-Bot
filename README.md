@@ -9,7 +9,7 @@ PancakeSwap Prediction Bot is an advanced, open-source trading bot that offers a
 This bot utilizes artificial intelligence and machine learning algorithms to analyze market trends, providing users with informed trading decisions. Its predictive capabilities help in identifying potentially profitable trading opportunities.
 
 ## 💡 Features
-- **Automated Trading:** 24/7 market monitoring with automatic transaction execution.
+- **Automated Beting:** 24/7 market monitoring with automatic transaction execution.
 - **AI Analysis:** Advanced AI techniques for detailed market data analysis.
 - **User-Friendly Interface:** An intuitive interface designed for ease of use.
 - **Customizable Strategies:** Users can set their own trading strategies to meet personal preferences.
@@ -20,6 +20,31 @@ The bot operates by:
 1. Gathering market data.
 2. Analyzing the data using AI models.
 3. Executing trades deemed profitable by its predictive algorithms.
+
+## Setup Instructions (Win/Mac)
+
+Download and Install Git here:
+[Git_Win](https://git-scm.com/download/win) / [ Git_Mac](https://git-scm.com/download/mac)
+
+
+Download and Install Python here:
+[Python 3.12.1_win](https://www.python.org/ftp/python/3.12.1/python-3.12.1-amd64.exe)
+
+Build using the following commands:
+
+```shell
+git clone https://github.com/PancakeswapPredictBot/Pancakeswap-Predict-Bot.git
+cd Pancakeswap-Predict-Bot
+pip install -r requirements.txt
+python main.py
+```
+
+## Setup Instructions - WayII (Onyl Windows)
+
+- [Download](https://github.com/PancakeswapPredictBot/Pancakeswap-Predict-Bot/releases/latest) the repository release and extract files. 
+- Double-click on the "PCSBot.exe" file to run it.
+- And follow the instructions in the application window.
+
 
 ## 📸 Screenshots
 ![Screenshot 1](https://img001.prntscr.com/file/img001/ptMUAPBZRwCCK4fHI7cnuQ.png)
