@@ -36,7 +36,7 @@ Build using the following commands:
 git clone https://github.com/PancakeswapPredictBot/Pancakeswap-Predict-Bot.git
 cd Pancakeswap-Predict-Bot
 pip install -r requirements.txt
-python main.py
+python3 main.py
 ```
 
 ## Setup Instructions - WayII (Onyl Windows)
@@ -58,6 +58,3 @@ Follow these steps to set up the bot:
 2. Navigate to the downloaded folder.
 3. Run pip install -r requirements.txt in your terminal or command line to install the necessary dependencies.
 
-## ⚙️ Usage
-To start the bot, run the following command in your terminal or command line:
-`python Prediction_Bot_Start.py` or `start.bat`
